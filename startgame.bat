@@ -1,0 +1,1 @@
+bin\mkxp-z.exe --preloadScript=win32api.rb

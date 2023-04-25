@@ -1,0 +1,198 @@
+﻿*Error - 2017-09-17 12:17:53 (Sunday)
+Exception : ArgumentError
+wrong number of arguments(3 for 2)
+trace:
+["( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `initialize'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `new'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `create_savefile_windows'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `each'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `create_savefile_windows'", "( Scene_File )：26:in `_exmincrsv_start'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：133:in `start'", "( Scene_Base )：12:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：55"]
+*Error - 2017-09-17 12:28:44 (Sunday)
+Exception : ArgumentError
+wrong number of arguments(3 for 2)
+trace:
+["( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `initialize'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `new'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `create_savefile_windows'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `each'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `create_savefile_windows'", "( Scene_File )：26:in `_exmincrsv_start'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：133:in `start'", "( Scene_Base )：12:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：55"]
+*Error - 2017-09-17 12:33:53 (Sunday)
+Exception : ArgumentError
+wrong number of arguments(3 for 2)
+trace:
+["( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `initialize'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `new'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `create_savefile_windows'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `each'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `create_savefile_windows'", "( Scene_File )：26:in `_exmincrsv_start'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：133:in `start'", "( Scene_Base )：12:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：55"]
+*Error - 2017-09-17 12:34:16 (Sunday)
+Exception : ArgumentError
+wrong number of arguments(3 for 2)
+trace:
+["( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `initialize'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `new'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `create_savefile_windows'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `each'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `create_savefile_windows'", "( Scene_File )：26:in `_exmincrsv_start'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：133:in `start'", "( Scene_Base )：12:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：55"]
+*Error - 2017-09-17 13:44:53 (Sunday)
+Exception : ArgumentError
+comparison of String with 0 failed
+trace:
+["( Game_Interpreter★ )：1180:in `>'", "( Game_Interpreter★ )：1180:in `command_231_str27'", "( STR27_文字ピクチャ生成 v1.2 09/04/18 )：127:in `command_231'", "( Game_Interpreter★ )：299:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_CommonEvent )：60:in `update'", "( マップ軽量化-KGC- )：152:in `update_events'", "( マップ軽量化-KGC- )：151:in `each'", "( マップ軽量化-KGC- )：151:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-17 15:29:55 (Sunday)
+Exception : ArgumentError
+wrong number of arguments(3 for 2)
+trace:
+["( タイルセット拡張-KGC- )：530:in `map_passable?'", "( タイルセット拡張-KGC- )：530:in `passable?'", "( タイルセット拡張-KGC- )：585:in `move_left'", "( dia )：29:in `ow_wade_game_player_move_by_input'", "( Wade )：143:in `move_by_input'", "( Game_Player★ )：331:in `update_KGC_TilesetExtension'", "( タイルセット拡張-KGC- )：728:in `player_footstep_update'", "( のびハザ(RGSS2)：足音スクリプト )：160:in `update'", "( マップ軽量化-KGC- )：262:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-17 21:24:53 (Sunday)
+Exception : NameError
+(eval):1:in `command_355'undefined local variable or method `calc_distance_from_player' for #<Game_Interpreter:0x9d909b0>
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-19 18:22:27 (Tuesday)
+Exception : NoMethodError
+Section029:1691:in `command_355'(eval):1:in `command_355'undefined method `block_tile=' for #<Game_Map:0xa562d68>
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( マップイベントの呼び出し )：17:in `cme'", "(eval):4:in `command_355'", "(eval):2:in `each'", "(eval):2:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( マップイベントの呼び出し )：44:in `command_117'", "( Game_Interpreter★ )：233:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( マップイベントの呼び出し )：44:in `command_117'", "( Game_Interpreter★ )：233:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( マップイベントの呼び出し )：44:in `command_117'", "( Game_Interpreter★ )：233:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-20 00:13:30 (Wednesday)
+Exception : NoMethodError
+(eval):7:in `command_355'undefined method `x' for nil:NilClass
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-20 00:14:05 (Wednesday)
+Exception : NoMethodError
+(eval):7:in `command_355'undefined method `x' for nil:NilClass
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-20 00:31:23 (Wednesday)
+Exception : NameError
+undefined local variable or method `wh' for #<Window_SaveFile:0xa5a3a10>
+trace:
+["( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：321:in `initialize'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `new'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `create_savefile_windows'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `each'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `create_savefile_windows'", "( Scene_File )：26:in `_exmincrsv_start'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：133:in `start'", "( Scene_Base )：12:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-20 00:33:05 (Wednesday)
+Exception : NameError
+undefined local variable or method `wh' for #<Window_SaveFile:0xa59b158>
+trace:
+["( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：321:in `initialize'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `new'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：181:in `create_savefile_windows'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `each'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：178:in `create_savefile_windows'", "( Scene_File )：26:in `_exmincrsv_start'", "( ■セーブ・ロード画面カスタマイズ RGSS2 DAIpage■ )：133:in `start'", "( Scene_Base )：12:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-21 17:24:35 (Thursday)
+Exception : ScriptSyntaxError
+(eval):1:in `command_111'compile error
+(eval):1: syntax error
+$game_player.x <= get_this event_y
+                                  ^
+trace:
+["( Game_Interpreter★ )：637:in `command_111'", "( Game_Interpreter★ )：221:in `eval'", "( Game_Interpreter★ )：637:in `command_111'", "( Game_Interpreter★ )：221:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( 再定義エイリアス等 )：200:in `update_transfer_player'", "( マップ軽量化-KGC- )：267:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-21 17:25:06 (Thursday)
+Exception : ScriptSyntaxError
+(eval):1:in `command_111'compile error
+(eval):1: syntax error
+$game_player.y <= get_this event_y
+                                  ^
+trace:
+["( Game_Interpreter★ )：637:in `command_111'", "( Game_Interpreter★ )：221:in `eval'", "( Game_Interpreter★ )：637:in `command_111'", "( Game_Interpreter★ )：221:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( 再定義エイリアス等 )：200:in `update_transfer_player'", "( マップ軽量化-KGC- )：267:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-21 17:25:44 (Thursday)
+Exception : ScriptSyntaxError
+(eval):1:in `command_111'compile error
+(eval):1: syntax error
+$game_player.y == get_this event_y
+                                  ^
+trace:
+["( Game_Interpreter★ )：637:in `command_111'", "( Game_Interpreter★ )：221:in `eval'", "( Game_Interpreter★ )：637:in `command_111'", "( Game_Interpreter★ )：221:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( 再定義エイリアス等 )：200:in `update_transfer_player'", "( マップ軽量化-KGC- )：267:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-21 17:26:27 (Thursday)
+Exception : NameError
+(eval):1:in `command_111'undefined local variable or method `event_y' for #<Game_Interpreter:0xa0a6b98>
+trace:
+["( Game_Interpreter★ )：637:in `command_111'", "( Game_Interpreter★ )：221:in `eval'", "( Game_Interpreter★ )：637:in `command_111'", "( Game_Interpreter★ )：221:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( 再定義エイリアス等 )：200:in `update_transfer_player'", "( マップ軽量化-KGC- )：267:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-21 18:26:23 (Thursday)
+Exception : ScriptSyntaxError
+(eval):8:in `command_355'compile error
+(eval):8: syntax error
+[@atk_id].y)
+ ^
+(eval):8: syntax error
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-21 18:57:16 (Thursday)
+Exception : ScriptSyntaxError
+(eval):8:in `command_355'compile error
+(eval):8: syntax error
+[@atk_id].y)
+ ^
+(eval):8: syntax error
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-21 19:31:33 (Thursday)
+Exception : ScriptSyntaxError
+(eval):8:in `command_355'compile error
+(eval):8: syntax error
+[@atk_id].y)
+ ^
+(eval):8: syntax error
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 19:04:28 (Friday)
+Exception : NameError
+(eval):7:in `command_355'undefined local variable or method `game_map' for #<Game_Interpreter:0x9cbc0f8>
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 19:55:43 (Friday)
+Exception : TypeError
+nil can't be coerced into Fixnum
+trace:
+["( AS: AntiLag )：241:in `+'", "( AS: AntiLag )：241:in `on_screen'", "( AS: AntiLag )：715:in `update_characters'", "( AS: AntiLag )：714:in `each'", "( AS: AntiLag )：714:in `update_characters'", "( Spriteset_Map )：177:in `update_stref'", "( STEMB_Base v0.8 )：70:in `update'", "( Spriteset_Map )：21:in `initialize'", "( Scene_Map★ )：14:in `new'", "( Scene_Map★ )：14:in `start_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：58:in `jet5830_start'", "( show var )：78:in `start'", "( Scene_Base )：12:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 19:56:17 (Friday)
+Exception : NoMethodError
+undefined method `ox=' for nil:NilClass
+trace:
+["( AS: AntiLag )：705:in `update_tilemap'", "( Spriteset_Map )：175:in `update_stref'", "( STEMB_Base v0.8 )：70:in `update'", "( Spriteset_Map )：21:in `initialize'", "( Scene_Map★ )：14:in `new'", "( Scene_Map★ )：14:in `start_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：58:in `jet5830_start'", "( show var )：78:in `start'", "( Scene_Base )：12:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 19:56:33 (Friday)
+Exception : NoMethodError
+undefined method `ox=' for nil:NilClass
+trace:
+["( AS: AntiLag )：705:in `update_tilemap'", "( Spriteset_Map )：175:in `update_stref'", "( STEMB_Base v0.8 )：70:in `update'", "( Spriteset_Map )：21:in `initialize'", "( Scene_Map★ )：14:in `new'", "( Scene_Map★ )：14:in `start_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：58:in `jet5830_start'", "( show var )：78:in `start'", "( Scene_Base )：12:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 20:22:21 (Friday)
+Exception : NoMethodError
+Section198:135:in `each_neighbor'undefined method `round_x_with_direction' for #<Game_Map:0xae8d548>
+trace:
+["( Game_Character )：507:in `move_type_custom'", "( pathfind )：133:in `times'", "( pathfind )：133:in `each_neighbor'", "( pathfind )：162:in `find_path'", "( pathfind )：157:in `loop'", "( pathfind )：184:in `find_path'", "( pathfind )：207:in `find_path'", "(eval):1:in `move_type_custom'", "( Game_Character )：288:in `eval'", "( Game_Character )：507:in `move_type_custom'", "( Game_Character )：288:in `update_str08m'", "( STR08_ゴーストイベント v0.8 )：42:in `update'", "( Game_Event )：167:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：477:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 22:23:46 (Friday)
+Exception : NoMethodError
+(eval):1:in `command_111'undefined method `enemy_ID' for #<Game_Interpreter:0x9fb3638>
+trace:
+["( Game_Interpreter★ )：637:in `command_111'", "( Game_Interpreter★ )：221:in `eval'", "( Game_Interpreter★ )：637:in `command_111'", "( Game_Interpreter★ )：221:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：478:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 22:27:19 (Friday)
+Exception : ScriptSyntaxError
+(eval):1:in `command_355'compile error
+(eval):1: syntax error
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：478:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 22:28:28 (Friday)
+Exception : ScriptSyntaxError
+(eval):1:in `command_355'compile error
+(eval):1: syntax error
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：478:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 22:30:00 (Friday)
+Exception : NoMethodError
+Section124:231:in `distance_x_from'undefined method `x' for nil:NilClass
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( プレイヤーからの距離計算 )：25:in `calclate_distance_from'", "(eval):1:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：478:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 22:35:37 (Friday)
+Exception : NoMethodError
+Section124:231:in `distance_x_from'undefined method `x' for nil:NilClass
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( プレイヤーからの距離計算 )：25:in `calclate_distance_from'", "(eval):1:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：478:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 22:36:31 (Friday)
+Exception : NoMethodError
+Section124:231:in `distance_x_from'undefined method `x' for 6:Fixnum
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( プレイヤーからの距離計算 )：25:in `calclate_distance_from'", "(eval):1:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：478:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 22:43:00 (Friday)
+Exception : NoMethodError
+Section124:231:in `distance_x_from'undefined method `x' for nil:NilClass
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( プレイヤーからの距離計算 )：25:in `calclate_distance_from'", "(eval):1:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：478:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-09-22 22:46:07 (Friday)
+Exception : NoMethodError
+Section124:231:in `distance_x_from'undefined method `x' for nil:NilClass
+trace:
+["( Game_Interpreter★ )：1691:in `command_355'", "( プレイヤーからの距離計算 )：25:in `calclate_distance_from'", "(eval):1:in `command_355'", "( Game_Interpreter★ )：389:in `eval'", "( Game_Interpreter★ )：1691:in `command_355'", "( Game_Interpreter★ )：389:in `execute_command'", "( Game_Interpreter★ )：135:in `update'", "( Game_Interpreter★ )：100:in `loop'", "( Game_Interpreter★ )：137:in `update'", "( Game_Event )：173:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：478:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( マップ軽量化-KGC- )：261:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-10-08 22:42:56 (Sunday)
+Exception : NoMethodError
+undefined method `width=' for #<Bitmap:0xa04d798>
+trace:
+["( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：521:in `reset_window_f'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：580:in `reset_window'", "( Window_Message )：176:in `start_message_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：409:in `start_message'", "( Window_Message )：67:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：158:in `update'", "( マップ軽量化-KGC- )：265:in `update_str23'", "( STR23_アイテムセレクト )：185:in `update_KGC_OldEventCommands'", "( 旧イベントコマンド-KGC- )：437:in `update_map_tile'", "( ■デバッグ専用MAPウインドウ RGSS2 DAIpage■ v1.0 )：82:in `modern_algebra_change_leader_modification_updt'", "( change )：20:in `jet5839_update'", "( show var )：86:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-10-13 21:07:03 (Friday)
+Exception : NameError
+undefined local variable or method `real_move_speed' for #<Game_Event:0xa003880>
+trace:
+["( Game_Character )：348:in `update_animation'", "( Game_Character )：292:in `update_str08m'", "( STR08_ゴーストイベント v0.8 )：42:in `update'", "( Game_Event )：167:in `update'", "( マップ軽量化-KGC- )：146:in `update_events'", "( マップ軽量化-KGC- )：145:in `each'", "( マップ軽量化-KGC- )：145:in `update_events'", "( Game_Map )：478:in `update_str22'", "( STR22Core_メッセージウィンドウEXT++/本体 v1.3a 08/02 )：1923:in `update'", "( Scene_Map★ )：48:in `update_basic'", "( Scene_Map★ )：80:in `fadein'", "( Scene_Map★ )：78:in `each'", "( Scene_Map★ )：78:in `fadein'", "( Scene_Map★ )：22:in `perform_transition'", "( Scene_Base )：13:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
+*Error - 2017-12-05 23:48:38 (Tuesday)
+Exception : Errno::ENOENT
+No such file or directory - Audio/SE/bio1_決定音２
+trace:
+["(eval):1:in `se_play'", "(eval):1:in `dai_volume_play'", "( ■音量コンフィグ RGSS2 DAIpage■ v1.0 )：197:in `play'", "( Sound )：17:in `play_decision'", "( Scene_Title★ )：234:in `command_continue'", "( Scene_Title★ )：70:in `update'", "( Scene_Base )：19:in `main'", "( Scene_Base )：16:in `loop'", "( Scene_Base )：21:in `main'", "( Scene_Title★ )：15:in `main'", "( WF-RGSS Scripts 共通実行スクリプト )：56"]
