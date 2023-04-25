@@ -1,6 +1,7 @@
 ![NobiZ Image](/screenshot.jpg)
 # About our games
-This game is made by Vietnamese people. This game's abbreviation is NobiZ but its full name is Nobita No Biohazard
+- This game is made by Vietnamese people. This game's abbreviation is NobiZ but its full name is Nobita No Biohazard
+- This game is based on the Resident Evil series, so there will be zombies, monsters, bosses similar to the series above
 
 # How to download?
 - Clone this Git Repo: git clone https://github.com/DinhPhongNe/NobiZ-Game.git
@@ -9,3 +10,7 @@ So you need to download from : https://www.mediafire.com/file/bo0jifpufxddu0d?fb
 
 # How to open game?
 - After you clone or download the file, extract the file if you download it, open the file then click at game
+
+
+
+- See more Nobihaza or Nobita No Biohazard game series at: https://nobihazarpgmakervn.weebly.com/download-pc.html
